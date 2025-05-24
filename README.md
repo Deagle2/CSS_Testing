@@ -1,3 +1,3 @@
-# Mod2_Soln
+# Menu CSS testing
 
 _Starter Project_
